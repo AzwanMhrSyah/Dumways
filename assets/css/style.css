@@ -1,0 +1,26 @@
+
+.padd-left{
+	padding-left: ;
+}
+
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #e2edff;
+}
+
+#projects{
+	background-color: #e2edff;
+}
+
+.section{
+	padding-top: 5rem;
+}
+
+.grey-text{
+	color: grey;
+}
+
+hr.radius{
+	border: 1px solid green; 
+	border-radius: 6px;
+}
